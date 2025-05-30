@@ -44,3 +44,8 @@ I speak Tibetan, Hindi, and English, and enjoy nature walks, watching films, mus
 ## 📫 Let's connect
 - LinkedIn: [linkwme](https://www.linkedin.com/in/tenzin-kunsang648/)
 - Email: tenzkunsang648@gmail.com
+
+---
+
+## 🌐 More^^
+If anything sparked your curiosity, I'd love to hear from you and/or feel free to explore my **[personal portfolio](https://tenzin-kunsang648.github.io/resume/)**.
