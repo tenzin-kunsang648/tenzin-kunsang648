@@ -26,15 +26,21 @@ Just finished my Master's in Computer Science at Northeastern, specializing in A
 - **Languages:** Python, C++, Java, R, SQL, JavaScript
 - **ML/AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO, Pandas, NumPy
 - **Tools:** Git, Tableau, CI/CD, Salesforce
-
-## 📫 Let's connect
-- LinkedIn: [myLinkedIn](https://www.linkedin.com/in/tenzin-kunsang648/)
-- Email: tenzkunsang648@gmail.com
-
-## 📚 Currently reading
-
-- Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
-- Near to the Wild Heart by Clarice Lispector
   
 ## 🎯 Fun fact
 I speak Tibetan, Hindi, and English, and enjoy nature walks, watching films, music, chess, photography, and poetry in my free time!
+
+
+## 📚 Currently reading
+
+- <i>Tomorrow, and Tomorrow, and Tomorrow</i> by Gabrielle Zevin
+- <i>Near to the Wild Heart</i> by Clarice Lispector
+
+## 🎬 Recent favorite films
+
+- <i>Chungking Express</i> by Wong Kar-wai
+- <i>The Banshees of Inisherin</i> by Martin McDonagh
+
+## 📫 Let's connect
+- LinkedIn: [linkwme](https://www.linkedin.com/in/tenzin-kunsang648/)
+- Email: tenzkunsang648@gmail.com
