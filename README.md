@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Tenzin Kunsang 👋
 
 <!--
 **tenzin-kunsang648/tenzin-kunsang648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Just finished my Master's in Computer Science at Northeastern, specializing in AI & Data Science. My path here wasn't straight: from mathematics to machine learning and computer vision. Each turn was necessary and reinforced my commitment to developing technology that amplifies human potential.
+
+## 🔭 My most recent works
+- Medical image processing for MRI-guided cardiac procedures
+- Deep learning models for image segmentation and depth estimation
+- Teaching Assistant for graduate-level Computer Vision and Algorithms coursework at Northeastern University
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, Java, R, SQL, JavaScript
+- **ML/AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO, Pandas, NumPy
+- **Tools:** Git, Tableau, CI/CD, Salesforce
+
+## 📫 Let's connect
+- LinkedIn: [myLinkedIn](https://www.linkedin.com/in/tenzin-kunsang648/)
+- Email: tenzkunsang648@gmail.com
+
+## 📚 Currently reading
+
+- Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
+- Near to the Wild Heart by Clarice Lispector
+  
+## 🎯 Fun fact
+I speak Tibetan, Hindi, and English, and enjoy nature walks, watching films, music, chess, photography, and poetry in my free time!
