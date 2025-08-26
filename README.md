@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just finished my Master's in Computer Science at Northeastern, specializing in AI & Data Science. My path here wasn't straight: from mathematics to machine learning and computer vision. Each turn was necessary and reinforced my commitment to developing technology that amplifies human potential.
+Just completed my Master's in Computer Science with a Specialization on AI and Data Science at Northeastern University. My background spans enterprise data platforms where I spent 3 years as a software developer and lead data engineer at ICF, to medical imaging systems as an ML Engineer at Transmural Systems developing computer vision systems for image-guided cardiac interventions, but perhaps most importantly for me, all my experiences are built heavily on top of a mathematics foundation from Carleton College.
 
 ## 🔭 My most recent works
 - Medical image processing for MRI-guided cardiac procedures
 - Deep learning models for image segmentation and depth estimation
 - Teaching Assistant for graduate-level Computer Vision and Algorithms coursework at Northeastern University
+- In another life, I was a Lead Data Engineer and a software developer at a consulting company
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, C++, Java, R, SQL, JavaScript
-- **ML/AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO, Pandas, NumPy
+- **ML/AI:** PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO, Pandas, NumPy, RAG, Vector Databases
 - **Tools:** Git, Tableau, CI/CD, Salesforce
   
 ## 🎯 Fun fact
