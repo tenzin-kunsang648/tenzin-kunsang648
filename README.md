@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just completed my Master's in Computer Science with a Specialization on AI and Data Science at Northeastern University. My background spans enterprise data platforms where I spent 3 years as a software developer and lead data engineer at ICF, to medical imaging systems as an ML Engineer at Transmural Systems developing computer vision systems for image-guided cardiac interventions, but perhaps most importantly for me, all my experiences are built heavily on top of a mathematics foundation from Carleton College.
+Just completed my Master's in Computer Science with a Specialization on AI and Data Science at Northeastern University. I'm a Machine Learning Engineer with experience across multiple domains and a particular passion for Computer Vision. My background spans Mathematics, Data Engineer, Software Development, and Machine Learning Engineer. 
 
 ## 🔭 My most recent works
 - Medical image processing for MRI-guided cardiac procedures
