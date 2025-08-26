@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just completed my Master's in Computer Science with a Specialization on AI and Data Science at Northeastern University. I'm a Machine Learning Engineer with experience across multiple domains and a particular passion for Computer Vision. My background spans Mathematics, Data Engineer, Software Development, and Machine Learning Engineer. 
-Check my **[CV](https://tenzin-kunsang648.github.io/resume/)** for more details! 
+Just completed my Master's in Computer Science with a Specialization on AI and Data Science at Northeastern University. I'm a Machine Learning Engineer with experience across multiple domains and a particular passion for Computer Vision. My background also include Mathematics, Data Engineer, and Software Development.
+
+My **[CV](https://tenzin-kunsang648.github.io/resume/)** for more details! 
 
 ## 🔭 My most recent works
 - Medical image processing for MRI-guided cardiac procedures
