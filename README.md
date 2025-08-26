@@ -20,8 +20,8 @@ Just completed my Master's in Computer Science with a Specialization on AI and D
 ## 🔭 My most recent works
 - Medical image processing for MRI-guided cardiac procedures
 - Deep learning models for image segmentation and depth estimation
-- Teaching Assistant for graduate-level Computer Vision and Algorithms coursework at Northeastern University
 - In another life, I was a Lead Data Engineer and a software developer at a consulting company
+- Teaching Assistant for graduate-level Computer Vision and Algorithms coursework at Northeastern University
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, C++, Java, R, SQL, JavaScript
