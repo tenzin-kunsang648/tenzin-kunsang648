@@ -9,7 +9,7 @@ At the intersection of Salesforce Development and Machine Learning. Delivered en
 - TA for grad-level Computer Vision, Data Structures, & Algorithms at Northeastern  
 
 ## Tech Stack
-Salesforce (Apex • LWC • Tableau CRM • REST API • Experience Cloud)
+Salesforce (Apex • LWC • Tableau CRM • REST API • Experience Cloud) \n
 Python • C++ • PyTorch • TensorFlow • OpenCV • LangChain • RAG • Git  
 
 ## Featured Projects 
